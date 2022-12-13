@@ -1,4 +1,4 @@
-<h2 align="center">Explanation</h2>
+<h2 align="center">Explanation of the terms</h2>
 
 - "sp" == structured programming
 
