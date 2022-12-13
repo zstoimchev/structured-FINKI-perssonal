@@ -4,5 +4,5 @@
 
 - "av" == autitory exercises
 
-- "mt" == midterm
+- "mt" == mid-term
 
